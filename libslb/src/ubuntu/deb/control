@@ -1,0 +1,8 @@
+Package: libslb
+Version: 1.0
+Section: extra
+Priority: optional
+Architecture: all
+Depends: 
+Maintainer: Hogan Lee <hogan_lee@itri.org.tw>
+Description: libslb is a library for other component using.
